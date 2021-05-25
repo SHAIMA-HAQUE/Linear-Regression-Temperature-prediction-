@@ -2,4 +2,4 @@
 
 Dataset from - https://www.kaggle.com/smid80/weatherww2/data
 
-Predicting the minimum temperature for a given maximum temperature during the World War II era
+Predicting the minimum temperature for a given maximum temperature during the World War II era (1940 - 1945)
